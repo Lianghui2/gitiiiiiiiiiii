@@ -17,5 +17,6 @@ HEAD指向的版本就是当前版本，因此，Git允许我们在版本的历�
 要重返未来，用git reflog查看命令历史，以便确定要回到未来的哪个版本
 
 
-Q###fatal: remote origin already exists
-A###git remote rm origin
+Q#fatal: remote origin already exists
+A#git remote rm origin
+
